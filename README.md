@@ -2,7 +2,7 @@
 
 ## Descripción general
 
-Este proyecto tiene como objetivo contar un hecho que pasa en el curso Programador. 
+Este proyecto tiene como objetivo estudiar y mostrar lo que ocurre en el curso Programador.
 
 ## Datos
 
