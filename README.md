@@ -7,7 +7,7 @@ Este proyecto tiene como objetivo estudiar y mostrar lo que ocurre en el curso P
 ## Datos
 
 *   Fuente de los datos: Propio.
-*   El dataset (archivo CSV) contiene información sobre el genero, edad, localidad, entre otros.
+*   El dataset (archivo CSV) contiene información sobre el género, edad, localidad, entre otros.
 
 ## Metodología
 
